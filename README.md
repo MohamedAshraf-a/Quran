@@ -10,10 +10,7 @@ The project allows users to listen to the Holy Quran **Ayah by Ayah**, while dis
 
 ## 📸 Screenshot
 
-![Quran Audio Player]
-
 ![Uploading image.png…]()
-
 
 ---
 
