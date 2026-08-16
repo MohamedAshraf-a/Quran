@@ -6,7 +6,7 @@ The project allows users to listen to the Holy Quran **Ayah by Ayah**, while dis
 
 ## 🌐 Live Demo
 
-🚀 **[View Live Website](https://mohamedashraf-a.github.io/Quran/)**
+🚀 **[View Live Website]([https://mohamedashraf-a.github.io/Quran/](https://mohamedashraf-a.github.io/Quran_CodeAlpha/))**
 
 ## 📸 Screenshot
 
