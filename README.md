@@ -2,7 +2,18 @@
 
 A modern and responsive Quran Audio Player built with HTML, CSS, and JavaScript.
 
-The project allows users to listen to the Holy Quran **Ayah by Ayah**, with the currently playing Ayah displayed on screen.
+The project allows users to listen to the Holy Quran **Ayah by Ayah**, while displaying the currently playing Ayah on screen.
+
+## 🌐 Live Demo
+
+🚀 **[View Live Website](https://mohamedashraf-a.github.io/Quran/)**
+
+## 📸 Screenshot
+
+![Quran Audio Player]
+
+![Uploading image.png…]()
+
 
 ---
 
@@ -32,9 +43,9 @@ The project allows users to listen to the Holy Quran **Ayah by Ayah**, with the 
 - CSS3
 - JavaScript (ES6+)
 - REST API
-- Audio API
+- HTML5 Audio API
 
-### APIs & Resources
+## 🔗 APIs & Resources
 
 - [AlQuran Cloud API](https://alquran.cloud/api)
 - [Islamic Network Quran Audio CDN](https://cdn.islamic.network/)
@@ -42,8 +53,6 @@ The project allows users to listen to the Holy Quran **Ayah by Ayah**, with the 
 ---
 
 ## 🎙️ Available Reciters
-
-The player supports multiple reciters, including:
 
 - مشاري راشد العفاسي
 - عبد الباسط عبد الصمد
@@ -54,11 +63,28 @@ The player supports multiple reciters, including:
 
 ---
 
-## 📸 Project
+## 👨‍💻 Developer
 
-### Quran Audio Player
+Developed by **Mohamed Ashraf**
 
-The application provides a clean interface for selecting a Surah and reciter, then listening to the Quran while displaying the current Ayah.
+- **GitHub:** [MohamedAshraf-a](https://github.com/MohamedAshraf-a)
+- **LinkedIn:** [Mohamed Ashraf](https://www.linkedin.com/in/mohamed-ashraf-99b754317/)
+
+---
+
+## 🤍 Sadaqah Jariyah
+
+This project was developed as a **Sadaqah Jariyah for me and my parents**.
+
+May Allah accept it, make it beneficial, and reward everyone who contributes to spreading and benefiting from the Quran.
+
+---
+
+## 🎓 CodeAlpha Internship
+
+**CodeAlpha — Frontend Development Internship**
+
+**Task 04 — Quran Audio Player**
 
 ---
 
